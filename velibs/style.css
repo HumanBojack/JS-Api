@@ -4,8 +4,11 @@ body {
 }
 
 #feed{
-	width: 75%;
-	
+	width: 75%;	
+}
+
+#map{
+	height: 200px;
 }
 
 .infos{
